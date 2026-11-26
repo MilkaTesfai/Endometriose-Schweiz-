@@ -3,8 +3,9 @@ Dieses Repository beschäftigt sich mit Endometriose in der Schweiz. Es behandel
 
 Gruppenmitglieder: Lava Muhamed, Milka Tesfai, Shaumya Kandeepan
 
-
 Studimails: muhamlav@students.zhaw.ch, tesfamil@students.zhaw.ch, kandesha@students.zhaw.ch
+
+
 
 
 Fragestellung:
